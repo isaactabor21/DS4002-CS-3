@@ -1,4 +1,4 @@
-# Assessing the Financial Impact of Tornadoes in Minnesota Using Time Series Data
+# Case Study: Assessing the Financial Impact of Tornadoes in Minnesota Using Time Series Data
 
 ## Contents
 1. DATA folder: Contains 1950-2023_all_tornadoes.csv, our original dataset which was produced by the National Oceanic and Atmospheric Administration (NOAA) and posted on their Storm Prediction Center website.
