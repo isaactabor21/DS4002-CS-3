@@ -1,7 +1,7 @@
 # Case Study: Assessing the Financial Impact of Tornadoes in Minnesota Using Time Series Data
 
 ## Contents
-1. Hook document: a pdf should make a 2nd year UVA student excited to engage with my case study.
+1. Hook document: a pdf that should make a 2nd year UVA student excited to engage with my case study.
 2. Rubric document: an explanation of the purpose, task, and criteria of the case study.
 3. ARTICLES folder: more depth surrounding the case study and its application to the real world.
 4. DATA folder: Contains 1950-2023_all_tornadoes.csv, our original dataset which was produced by the National Oceanic and Atmospheric Administration (NOAA) and posted on their Storm Prediction Center website.
