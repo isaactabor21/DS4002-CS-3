@@ -1,9 +1,12 @@
 # Case Study: Assessing the Financial Impact of Tornadoes in Minnesota Using Time Series Data
 
 ## Contents
-1. DATA folder: Contains 1950-2023_all_tornadoes.csv, our original dataset which was produced by the National Oceanic and Atmospheric Administration (NOAA) and posted on their Storm Prediction Center website.
-2. SCRIPTS folder: Includes DS_PROJECT_2.ipynb, which holds all the source code for data loading, cleaning, and ARIMA analysis and forecasting.
-3. OUTPUT folder: Contains plots generated during the initial exploratory data analysis (EDA) of the dataset as well as during evaluation of model statistics and diagnostics.
+1. Hook document: a pdf should make a 2nd year UVA student excited to engage with my case study.
+2. Rubric document: an explanation of the purpose, task, and criteria of the case study.
+3. ARTICLES folder: more depth surrounding the case study and its application to the real world.
+4. DATA folder: Contains 1950-2023_all_tornadoes.csv, our original dataset which was produced by the National Oceanic and Atmospheric Administration (NOAA) and posted on their Storm Prediction Center website.
+5. SCRIPTS folder: Includes DS_PROJECT_2.ipynb, which holds all the source code for data loading, cleaning, and ARIMA analysis and forecasting.
+6. OUTPUT folder: Contains plots generated during the initial exploratory data analysis (EDA) of the dataset as well as during evaluation of model statistics and diagnostics.
 
 ## Software and platform
 For the project, we used Python and the additional pandas, numpy, matplotlib, statsmodels, and scikit-learn libraries. Each of our group members used Mac platforms.
