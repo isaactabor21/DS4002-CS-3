@@ -1,5 +1,8 @@
 # Case Study: Assessing the Financial Impact of Tornadoes in Minnesota Using Time Series Data
 
+## Important Information
+Please navigate the contents of this repository by following the numeric order of the contents section below to complete this case study. 
+
 ## Contents
 1. Hook document: a pdf that should make a 2nd year UVA student excited to engage with my case study.
 2. Rubric document: an explanation of the purpose, task, and criteria of the case study.
